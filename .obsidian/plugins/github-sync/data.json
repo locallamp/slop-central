@@ -1,0 +1,7 @@
+{
+  "remoteURL": "https://github.com/locallamp/slop-central.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true
+}
